@@ -1,6 +1,6 @@
 ## Wie benutze ich die Rätselhilfe?
 
-| Rätselhilfe | [Link zum App Store](https://apps.apple.com/de/app/r-tselhilfe/id788706467) |
+| ![Rätselhilfe](logo_140x140.png) | [Link zum App Store](https://apps.apple.com/de/app/r-tselhilfe/id788706467) |
 | :--- | :--- |
 | ![muster](muster.png) | Die Länge des gesuchten Wortes wird mit dem + Button und dem - Button eingestellt. Das leere Muster des Wortes ändert sich dabei. |
 | ![alphabet](alphabet.png) | Die verfügbaren Buchstaben des gesuchten Wortes werden in die zwei Zeilen darunter eingegeben. Zur Eingabe auf das erste leere Feld tippen. Mit dem x Button wird die gesamte Eingabe der verfügbaren Buchstaben gelöscht. |
